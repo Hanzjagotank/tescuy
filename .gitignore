@@ -1,0 +1,9 @@
+# ignore folder log
+log/
+
+# ignore file extension . backup
+*.backup
+
+# ignore ignore.txt
+ignore.txt
+belajargitsyntax.txt
